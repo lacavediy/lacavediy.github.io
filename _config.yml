@@ -33,6 +33,13 @@ footer-links:
   youtube: channel/UCOLynmtCEg_4Vd2yMTa2ZNQ
   googleplus: # anything in your profile username that comes after plus.google.com/
 
+seo:
+  author: "La Cave DIY"
+  authorGPlus: "https://plus.google.com/107372593286776964898"
+  facebookAdmin: 558346437
+  twitterType: "summary_large_image"
+  twitterSite: "@lacavediy"
+  twitterCreator: "@lacavediy"
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
