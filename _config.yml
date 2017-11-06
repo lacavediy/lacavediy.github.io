@@ -11,7 +11,7 @@ description: Site de DIY
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
-https_redirect: true
+https_redirect: false
 
 #
 # Flags below are optional
